@@ -39,8 +39,10 @@ The system consists of the following components:
 - **Classification Head**  
   Fully connected layers with softmax activation for sentiment prediction.
 
-- **Optimizerr**
+- **Optimizer**  
   AdmW optimizer applied to eng=hance the performance.
+
+
   
 **Sentiment Classes:**  
 Positive · Neutral · Negative
