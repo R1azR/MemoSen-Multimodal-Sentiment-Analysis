@@ -142,11 +142,13 @@ Results are visualized using:
 ```text
 .
 ├── data/                   # Dataset splits and metadata
-├── models/                 # ResNet18, BERT, fusion modules
-├── ocr/                    # OCR processing utilities
-├── training/               # Training and evaluation scripts
-├── figures/                # Generated plots and diagrams
-├── utils/                  # Helper functions
+├── blip.ipynb 
+├── clip.ipynb 
+├── vilt.ipynb
+├── figures/  
+├── vit+banglabert.ipynb
+├── yolo11n+bert.ipynb
+├── proposed-model.ipynb  
 ├── README.md
 └── requirements.txt
 ```
