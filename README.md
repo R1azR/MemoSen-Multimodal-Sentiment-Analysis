@@ -150,7 +150,7 @@ Multimodal Sentiment Analysis of Bengali Memes Using Vision–Language Fusion
 This project is intended for academic and research use.
 Please cite the paper if you use this code or dataset.
 
-##📌 Citation
+## 📌 Citation
 ```bibtex
 @article{memosen_multimodal,
   title={Multimodal Sentiment Analysis of Bengali Memes Using Vision–Language Fusion},
