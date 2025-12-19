@@ -138,3 +138,24 @@ This repository accompanies the research paper:
 
 Multimodal Sentiment Analysis of Bengali Memes Using Vision–Language Fusion
 (Manuscript under submission)
+
+## 🤝 Acknowledgements
+
+- MemoSen dataset contributors
+- Open-source communities behind PyTorch and Hugging Face
+- Authors of ResNet and BERT
+
+## 📜 License
+
+This project is intended for academic and research use.
+Please cite the paper if you use this code or dataset.
+
+##📌 Citation
+```bibtex
+@article{memosen_multimodal,
+  title={Multimodal Sentiment Analysis of Bengali Memes Using Vision–Language Fusion},
+  author={Souvik Pramanik, S.M. Riaz Rahman Antu, Atikul Munna, Md. Ibrahim Khalil, Shak Mohammad Abyad},
+  journal={Under Review},
+  year={2025}
+}
+```
